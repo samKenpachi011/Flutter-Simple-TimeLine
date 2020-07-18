@@ -5,7 +5,7 @@ A new Flutter project.
 * A simple timeline with a title, description and date
 * Try to avoid overflow while changing the Title and Description
 
-<image src="timeline.png" height="400em"/>
+<image src="timeline.jpg" height="400em"/>
 
 Note: This was built on the following tools.
 
